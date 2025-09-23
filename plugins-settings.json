@@ -6,30 +6,28 @@
         "pluginId": "9c40819b-4a8f-468f-9ba5-4b9699f3361f",
         "publicData": {}
     },
-    "f9ef41c3-1c53-4857-855b-f2f6a40b7186": {
-        "id": "70f973e0-b4b9-47ff-a3bc-68f992bf1ed9",
-        "name": "Supabase",
-        "designId": "fe9e6e96-d7aa-456a-89ac-051e471a0a2c",
-        "pluginId": "f9ef41c3-1c53-4857-855b-f2f6a40b7186",
-        "publicData": {
-            "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5nZ3BlcnlmbHJ6ZGtweWJjeHd1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTg1Nzg0MjAsImV4cCI6MjA3NDE1NDQyMH0.9XwMh4ySA8dxo52b61Z2V6sk8ZZO3KC1KkGxriHqsRs",
-            "projectUrl": "https://nggperyflrzdkpybcxwu.supabase.co",
-            "realtimeTables": {
-                "leads": true,
-                "clients": true,
-                "products": true
-            }
-        }
-    },
     "1fa0dd68-5069-436c-9a7d-3b54c340f1fa": {
-        "id": "c5f1d0a0-385f-4a8b-b19c-566cc19312e0",
+        "id": "9503d9a0-e2b6-4fcf-b88c-84c57cf85c32",
         "name": "Supabase Auth",
         "designId": "fe9e6e96-d7aa-456a-89ac-051e471a0a2c",
         "pluginId": "1fa0dd68-5069-436c-9a7d-3b54c340f1fa",
         "publicData": {
-            "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5nZ3BlcnlmbHJ6ZGtweWJjeHd1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTg1Nzg0MjAsImV4cCI6MjA3NDE1NDQyMH0.9XwMh4ySA8dxo52b61Z2V6sk8ZZO3KC1KkGxriHqsRs",
-            "projectUrl": "https://nggperyflrzdkpybcxwu.supabase.co",
+            "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYW5vbiIsImlzcyI6InN1cGFiYXNlIiwiaWF0IjoxNzU4NTk2NDAwLCJleHAiOjE5MTYzNjI4MDB9.pjsVALzmhQKkb9Osy0U7a-XfTCYaKG07doExrjjsUo8",
+            "projectUrl": "https://supabase.id360nm.com.br/",
             "afterNotSignInPageId": "bb9b8e12-14ab-4068-8cb3-7f08a77c3735"
+        }
+    },
+    "f9ef41c3-1c53-4857-855b-f2f6a40b7186": {
+        "id": "e8ba6a6f-faae-4868-b8be-b2934b673e78",
+        "name": "Supabase",
+        "designId": "fe9e6e96-d7aa-456a-89ac-051e471a0a2c",
+        "pluginId": "f9ef41c3-1c53-4857-855b-f2f6a40b7186",
+        "publicData": {
+            "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYW5vbiIsImlzcyI6InN1cGFiYXNlIiwiaWF0IjoxNzU4NTk2NDAwLCJleHAiOjE5MTYzNjI4MDB9.pjsVALzmhQKkb9Osy0U7a-XfTCYaKG07doExrjjsUo8",
+            "projectUrl": "https://supabase.id360nm.com.br/",
+            "realtimeTables": {
+                "leads": true
+            }
         }
     }
 }
